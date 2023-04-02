@@ -1,7 +1,7 @@
-# UI-UX-Design
+#UX — User Experience
+#UI — User Interface
 
-# UX — User Experience
-# UI — User Interface
+
 
 
 
